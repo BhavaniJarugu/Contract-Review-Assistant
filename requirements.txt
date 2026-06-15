@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+langchain
+pydantic
+pypdf
+python-multipart
+sqlalchemy
+psycopg2-binary

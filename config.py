@@ -1,0 +1,9 @@
+APP_NAME = "Contract Review Assistant"
+OPENAI_MODEL = "gpt-4o-mini"
+EMBEDDING_MODEL = "text-embedding-3-small"
+DATABASE_URL = "postgresql://user:pass@localhost/contracts"
+AWS_REGION = "us-east-1"
+CHUNK_SIZE = 500
+MAX_RESULTS = 5
+LOG_LEVEL = "INFO"
+ENABLE_RAG = True
